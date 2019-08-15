@@ -11,69 +11,69 @@
 
 
 
-apt-get install nodejs -y
+pkg install nodejs -y
 
-apt-get install npm -y
+pkg install npm -y
 
-pip3 install thrift==0.11.0
+pip install thrift==0.11.0
 
-pip3 install rsa
+pip install rsa
 
-pip3 install requests
+pip install requests
 
-pip3 install bs4
+pip install bs4
 
-pip3 install gtts
+pip install gtts
 
-pip3 install googletrans
+pip install googletrans
 
-pip3 install html5
+pip install html5
 
-pip3 install wikipedia
+pip install wikipedia
 
-pip3 install pytz
+pip install pytz
 
-pip3 install humanfriendly
+pip install humanfriendly
 
-pip3 install pafy
+pip install pafy
 
-pip3 install youtube_dl
+pip install youtube_dl
 
-pip3 install keepalive
+pip install keepalive
 
-pip3 install linepy
+pip install linepy
 
-pip3 install linepy==2.0.2
+pip install linepy==2.0.2
 
-pip3 install datatime
+pip install datatime
 
-pip3 install unzip
+pip install unzip
 
-pip3 install pip --upgrade
+pip install pip --upgrade
 
-cp -v /usr/local/bin/pip3 /usr/bin/pip3
+cp -v /usr/local/bin/pip /usr/bin/pip
 
-pip3 install setuptools
+pip install setuptools
 
-pip3 install tweepy
+pip install tweepy
 
-pip3 install linepy
+pip install linepy
 
-pip3 install html5lib
+pip install html5lib
 
-pip3 install pafy
+pip install pafy
 
-pip3 install youtube_dl
+pip install youtube_dl
 
-pip3 install humanfriendly
+pip install humanfriendly
 
-pip3 install gtts
+pip install gtts
 
-pip3 install googletrans
+pip install googletrans
 
-pip3 install pytz
+pip install pytz
 
-pip3 install wikipedia
+pip install wikipedia
 
 
 
